@@ -1,4 +1,4 @@
-﻿Public Class Form1
+﻿Public Class frmCat
     Dim t = 1
     Dim p = 1
     Dim a As Date
